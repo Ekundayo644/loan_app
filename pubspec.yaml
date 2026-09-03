@@ -48,7 +48,7 @@ dependencies:
   flutter_spinkit: ^5.2.0
   
   # ✅ Added objective_c for native assets support
-  objective_c: ^9.5.0
+  objective_c: ^8.0.0
 
 dev_dependencies:
   flutter_test:
